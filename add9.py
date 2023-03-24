@@ -1,4 +1,4 @@
-sum=10
+sum=17
 diff=90
 mul=40
 d=70
