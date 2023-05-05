@@ -1,2 +1,2 @@
 hi kushi
-this is MASTER RAJESHA
+this is  RAJESHA
